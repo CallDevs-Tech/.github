@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" alt="calldevx" src="https://github.com/user-attachments/assets/5da35a1a-9a70-49a4-ab23-44739a328317" />
+  <img width="200" alt="calldevx" src="https://github.com/user-attachments/assets/3dac1839-701d-47fa-8db6-7cc1964e5687" />
   <h1>CallDev's Technologies</h1>
   
   <p>
